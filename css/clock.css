@@ -1,0 +1,12 @@
+#clock {
+  color: white;
+  font-size: 150px;
+}
+#login-form,
+#clock {
+  justify-content: center;
+  text-align: center;
+}
+#clock {
+  margin-top: 400px;
+}

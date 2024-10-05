@@ -1,0 +1,15 @@
+.quote {
+  display: flex;
+  position: absolute;
+  left: 50%;
+  color: white;
+  bottom: 30px;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.quote > span:first-child {
+  transform: translate(-50%);
+}
+#quote > span:nth-child(2) {
+  left: 45%;
+}

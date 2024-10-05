@@ -1,0 +1,30 @@
+@import url(clock.css);
+@import "quote.css";
+@import "todo.css";
+@import "input.css";
+@import "greeting.css";
+@import "background.css";
+
+.hidden {
+  display: none;
+}
+#background {
+  width: 100vw;
+  height: 100vh;
+  opacity: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  z-index: -1;
+}
+#login-form {
+  margin-top: 30px;
+}
+
+#weather {
+  position: absolute;
+  top: 50px;
+  right: 20px;
+  color: white;
+}

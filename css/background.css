@@ -1,0 +1,14 @@
+.changecolor {
+  position: absolute;
+  top: 80px;
+  right: 20px;
+  background-color: transparent;
+  border: 1px solid white;
+  width: 100px;
+  height: 30px;
+  border-radius: 10%;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  vertical-align: center;
+}
