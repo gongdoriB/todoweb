@@ -15,6 +15,8 @@ li {
 #todo-form {
   margin-top: 10px;
   text-align: center;
+  width: 15%;
+  margin-left: 10%;
 }
 button {
   border: none;
@@ -22,16 +24,19 @@ button {
   font-size: 20px;
 }
 .todo-box {
-  position: absolute;
+  position: fixed;
   background-color: transparent;
   border: 1px solid white;
-  top: 320px;
-  left: 100px;
-  height: 500px;
-  width: 350px;
+  top: 33%;
+  left: 5%;
+  height: 45%;
+  width: 20%;
   border-radius: 5%;
 }
 .delete {
   margin-left: auto;
   margin-right: 20px;
+}
+.todo-form1 {
+  width: 15%;
 }

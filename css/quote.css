@@ -6,6 +6,7 @@
   bottom: 30px;
   flex-direction: column;
   gap: 0.5rem;
+  font-size: 1vmax;
 }
 .quote > span:first-child {
   transform: translate(-50%);
